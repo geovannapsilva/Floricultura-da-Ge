@@ -21,15 +21,15 @@ menuOpener.addEventListener('click', ()=>{
 //TESTEMONIALS
 //vetor de objetos contendo as frases e os icones
 let testemonials = [
-    {quote:'"Mais do que nunca, os animais '+
-     'são tratados como membros da familia"', origin:'cbs.svg' }, 
-    {quote:'"DogDev é um serviço de entrega direto ao '+ 
-        'consumidor, preparado na hora com ingredientes 100% '+
-        'reais. Ingredientes que humanos reconheceriam"',
+    {quote:'" As flores '+
+     'são tratados e cuidadas com muito cairinho e compaixão"', origin:'cbs.svg' }, 
+    {quote:'"Flores da Ge é um serviço de muito empenho  '+ 
+        'e dedicação, preparado na hora na hora e entregue perfeitamente! '+
+        ' ',
         origin:'forbes.svg' }, 
-    {quote:'"DogDev usa ingredientes simples e limpos em '+ 
-        'seus produtos."', origin:'fox.svg' }, 
-    {quote:'"Vejo você DogDev como um verdadeiro herói"',
+    {quote:'"Na Flores da Ge, cada pétala é escolhida com carinho para transformar seu dia em um jardim de alegria! '+ 
+        '', origin:'fox.svg' }, 
+    {quote:'"A beleza das flores da Flores da Ge faz seu lar mais acolhedor e cheio de vida!"',
         origin:'sharktank.svg' }
 ];
 //captura os elementos do html usando queryselector
